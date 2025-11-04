@@ -8,9 +8,14 @@ console.log(x + y);
 ```
 Explain why that output occurs.
 
+55 because the number is considered a string
+
 2) Fix the bug so each line logs a number, not a string:
 ```js
 let a = "7";
 let b = "3";
 console.log(a + b);
 ```
+Number (a)
+Number (b)
+Number (a) + Number (b)
